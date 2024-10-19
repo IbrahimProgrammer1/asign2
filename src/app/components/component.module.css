@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.ul{
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+    margin-top: 25px;
+    font-size: 1.5rem;
+    color: #45f011;
+}
+.li:hover{
+    border: 2px solid #45f011;
+    padding: 10px;
+    border-radius: 25px;
+}
+.heroh1{
+    margin-top: 5vw;
+    font-size: 4vw;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+}
+.span{
+    color: #45f011;
+}
+.herop{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    font-size: 2vw;
+}
+.herop:hover{
+    color: #45f011;
+    cursor: pointer;
+}
+.img{
+    justify-content: center;
+    align-items: center;
+    margin-left: 35vw;
+    margin-top: 2vw;
+}
+.img:hover{
+    border: 2px solid #45f011;
+}
+.btn{
+    border: 2px solid #45f011;
+    padding: 23px;
+    border-radius: 23px;
+    margin-left: 43rem;
+    margin-top: 2rem;
+    font-size: 23px;
+    font-family: "Poppins", sans-serif;
+}
+.btn:hover{
+    color: #45f011;
+    border: 2px solid #fff;
+}
+.footul{
+    background: #000;
+    margin-top: 11rem;
+}
+.footli{
+    font-family: "Poppins", sans-serif;
+
+}
+.footli:hover{
+    color: #45f011;
+}
+.footp{
+    background: #000;
+    text-align: center;
+    user-select: none;
+}
